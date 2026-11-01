@@ -1,8 +1,10 @@
 # Mutual Revision Between Partial Learners
 
-*Mutual distillation on unlabeled inputs crosses a generalization threshold: a pre-registered toy study.*
+**Do two models that learned from different data end up better by revising their predictions toward each other?**
 
-## Research Question
+📄 [Full technical writeup (PDF)](report/technical_note.pdf)
+
+# Research Question
 
 Two small models each learn from a *different* slice of labeled data, and neither has enough to solve the task alone. If they can also see a shared pool of **unlabeled** inputs and revise their predictions toward each other's, do they learn something that neither learns alone, or that two non-interacting models do not learn together?
 
