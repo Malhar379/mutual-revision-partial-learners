@@ -1,5 +1,5 @@
 """Toy ecosystem experiment: two small models with different data histories that
-interact, versus controls. Pure NumPy (no torch available in this sandbox).
+interact, versus controls. Pure NumPy (no torch needed)
 
 Task: modular addition y = (a + b) mod P on all PxP pairs.
 See PREREG.md for hypotheses and decision rules.
