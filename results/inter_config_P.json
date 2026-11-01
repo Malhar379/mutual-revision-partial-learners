@@ -1,0 +1,22 @@
+{
+ "self_teacher": {
+  "lam": 1.0,
+  "warm": 300,
+  "val": 0.0
+ },
+ "dml": {
+  "lam": 1.0,
+  "warm": 300,
+  "val": 0.0
+ },
+ "agree_only": {
+  "lam": 1.0,
+  "warm": 300,
+  "val": 0.0
+ },
+ "challenge": {
+  "lam": 1.0,
+  "warm": 300,
+  "val": 0.0
+ }
+}

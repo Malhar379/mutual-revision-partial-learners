@@ -1,0 +1,8 @@
+{
+  "note": "Training hyperparameters frozen BEFORE any interaction condition was run. Tuned on Val with solo/pooled conditions only (seed 0, random mode). Single-seed tuning, so noisy.",
+  "H": 128, "Hbig": 512, "act": "square", "init_scale": 0.5,
+  "lr": 0.003, "wd": 1.0, "steps": 6000,
+  "big_over": {"lr": 0.003, "wd": 0.5},
+  "fa": 0.18, "fb": 0.18, "fu": 0.24, "fv": 0.10,
+  "log_every": 500, "ramp": 500, "wclip": 10, "self_refresh": 100
+}
