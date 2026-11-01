@@ -2,7 +2,7 @@
 
 **Do two models that learned from different data end up better by revising their predictions toward each other?**
 
-📄 [Full technical writeup (PDF)](report/technical_note.pdf)
+📄 [Full technical writeup (PDF)](report/technical_note2.pdf)
 
 # Research Question
 
